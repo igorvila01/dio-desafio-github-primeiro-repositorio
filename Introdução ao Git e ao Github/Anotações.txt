@@ -1,6 +1,8 @@
 Link para Download do Git:
 https://git-scm.com/downloads
 
+Git Bash é um terminal para otimizar o uso do Git
+
 - Comandos basicos:
  - git clone  "colocar o link do repositorio sem aspas"        // comando para clonar um repositorio
  - git add "colocar o nome do arquivo que deseja adicionar ao git ou * para adicionar o que falta e que esta dentro do repositorio"     //comando para adicionar um arquivo novo ao git 
